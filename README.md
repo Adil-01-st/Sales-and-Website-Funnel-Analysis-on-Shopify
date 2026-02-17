@@ -28,7 +28,7 @@ The analysis is based on aggregated sales and traffic data.
 
 ## 🧠 Business Context
 
-- Micro e-commerce business
+- E-commerce business
 - Direct-to-consumer model
 - Single-product linear funn
 
