@@ -1,5 +1,5 @@
 # Sales and Website Funnel Analysis on Shopify
-This repository will contain business analysis projects.
+This repository will contain business analysis project.
 # 📊 Shopify Sales & Website Funnel Analysis
 
 **Role:** Business Analyst  
