@@ -12,7 +12,7 @@ This repository will contain business analysis project.
 
 ## 📌 Project Overview
 
-This project presents a full business analysis of a small Shopify-based e-commerce store operating in the Polish market.
+This project presents a full business analysis of a Shopify-based e-commerce store operating in the Polish market.
 
 The objective of the analysis was to:
 
